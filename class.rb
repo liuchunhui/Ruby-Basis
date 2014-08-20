@@ -24,6 +24,8 @@ class Song
 		"This song: #{@plays} plays, Total #{@@plays} plays."
 	end
 
+	
+
 end
 
 class  Karaokesong < Song
