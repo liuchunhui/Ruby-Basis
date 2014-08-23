@@ -6,6 +6,10 @@ module Test
 	def  state
 		State[object_id]
 	end
+
+	def  put_test
+		puts "mixin"
+	end
 end
 
 class Client
